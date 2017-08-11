@@ -1,11 +1,13 @@
 # JSP_Send_IMG_To_Servlet_Json
 <br>
 <br>
-###Frontend:<br>
+###Frontend:
+<br>
 img -> base64(img) -> json(base64(img))<br>
 <br>
 <br>
-###Backend:<br>
+###Backend:
+<br>
 json(base64(img)) -> base64(img) -> img<br>
 save img as D:getData/mypicture.jpg<br>
 <br>
